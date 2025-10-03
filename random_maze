@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
-<title>랜덤 미로 게임</title>
+<title>랜덤 미로</title>
 <style>
   :root{--bg:#0f1720;--panel:#0b1220;--accent:#ffd166;--text:#e6eef8}
   html,body{height:100%;margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,Segoe UI,Roboto,'Noto Sans',sans-serif;display:flex;align-items:center;justify-content:center;padding:12px}
